@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">TareaHugoReyes</string>
+    <string name="title_label">Willkommen</string>
+    <string name="main_button">Betreten</string>
+
+</resources>

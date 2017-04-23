@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_d943531671ce59801161269625280f4e2db8db32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2069b70209431caf897491b3a6fef9c914944283">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_feb31811a8a04d8a1fd43919a26db2543955d6ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_790371589a87525a4c244dd02a6dd16c120dd771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_c076f9cc64c2b9864cc95838977a535d02605ff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_e904185e3c858ab0a918a93d2d52f1c28124bcc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d84b8a41603346a2f6b27968516fc4cc4a3c177d">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1941f35fcf2b4c4dcd74b023b62ff013d9fdfdbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_67f5941b39e809f9fab983dcda1d5d859ac2627c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_2016a5aad6d056376639ee5e399879667458ef6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_1e09eec380da95aec44930d5e61b881584490683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_025293dde2ef130c6a37186e3bb8f4a05c01109a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_748d002f816d182ec91834736e10e027a92b22de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_e5fac5dfe30a0595534d033272d7245378982b32/classes.dex" />
+    </item>
+
+</items>

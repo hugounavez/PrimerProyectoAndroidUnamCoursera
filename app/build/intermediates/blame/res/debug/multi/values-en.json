@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/src/main/res/values-en/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 45,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/src/main/res/values-en/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 48,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 48,
+                        "endOffset": 152
+                    }
+                }
+            }
+        ]
+    }
+]
