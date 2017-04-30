@@ -1,7 +1,4 @@
-#Sun Apr 23 15:10:19 ADT 2017
-base.0=/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1941f35fcf2b4c4dcd74b023b62ff013d9fdfdbc
-renamed.1=classes2.dex
+#Sun Apr 30 11:09:20 AMT 2017
+base.0=/home/hugo/AndroidStudioProjects/PrimerProyectoAndroidUnamCoursera/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_feb31811a8a04d8a1fd43919a26db2543955d6ef/classes.dex
-base.1=/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_feb31811a8a04d8a1fd43919a26db2543955d6ef
-file.0=/home/hugo/AndroidStudioProjects/TareaHugoReyes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1941f35fcf2b4c4dcd74b023b62ff013d9fdfdbc/classes.dex
+file.0=/home/hugo/AndroidStudioProjects/PrimerProyectoAndroidUnamCoursera/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
